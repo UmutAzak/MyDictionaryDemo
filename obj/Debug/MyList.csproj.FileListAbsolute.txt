@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\MyList\bin\Debug\MyList.exe.config
+C:\Users\LENOVO\Desktop\MyList\bin\Debug\MyList.exe
+C:\Users\LENOVO\Desktop\MyList\bin\Debug\MyList.pdb
+C:\Users\LENOVO\Desktop\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyList\obj\Debug\MyList.exe
+C:\Users\LENOVO\Desktop\MyList\obj\Debug\MyList.pdb
